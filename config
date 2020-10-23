@@ -1,0 +1,3 @@
+ENV=PRODUCTION
+
+adiconando nova linha no config
