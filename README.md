@@ -1,2 +1,2 @@
-# curso-git
+# very nice curso-git
 Curso de Git
